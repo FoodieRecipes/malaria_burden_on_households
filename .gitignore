@@ -1,0 +1,24 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint.py
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+
+# Excel temporary / lock files
+~$*.xlsx
+~$*.docx
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary figures (already embedded in docx)
+ebm_figures/
